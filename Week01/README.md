@@ -302,7 +302,7 @@ console.log(linkList.length)
 
 !> 注意：只能用于元素有序的情况
 
-![skip-list](../../static/img/skip-list1.png ':size=800x200')
+![skip-list](static/img/skip-list1.png)
 
 ## 优点
 
